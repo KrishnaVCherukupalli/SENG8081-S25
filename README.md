@@ -4,3 +4,5 @@ A repository for the Major Project for the Case Studies Course in BDSA
 Krishna Vamsi Cherukupalli
 
 Lohith Reddy Danda
+
+Paras Rupani
